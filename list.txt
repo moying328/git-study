@@ -1,6 +1,6 @@
 物品1
 goods2
-say
+say（master）
 新增
 自己新增
 切换master
