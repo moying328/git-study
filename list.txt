@@ -1,4 +1,4 @@
-物品1
+物品1（未买）
 goods2
 say
 新增（feature1）
