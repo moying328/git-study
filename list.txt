@@ -6,3 +6,6 @@ say（master）
 切换master
 新增commit（master）
 分支feature1
+暂存区
+未提交
+出现错别字
