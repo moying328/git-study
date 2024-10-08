@@ -1,15 +1,7 @@
-����ui�ļ�
+test1
 
-ui1
+test2
 
-ui2
+test3
 
-ui3
-
-ui4
-
-ui5
-
-ui6
-
-ui7
+test4
